@@ -1,0 +1,4 @@
+resources.txt
+venv/
+.env
+data/
