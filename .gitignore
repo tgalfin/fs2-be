@@ -2,3 +2,4 @@ resources.txt
 venv/
 .env
 data/
+__pycache__
